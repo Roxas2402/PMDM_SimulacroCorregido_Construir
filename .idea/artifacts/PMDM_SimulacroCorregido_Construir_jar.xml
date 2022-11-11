@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PMDM_SimulacroCorregido_Construir:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PMDM_SimulacroCorregido_Construir_jar</output-path>
+    <root id="archive" name="PMDM_SimulacroCorregido_Construir.jar">
+      <element id="module-output" name="PMDM_SimulacroCorregido_Construir" />
+    </root>
+  </artifact>
+</component>
